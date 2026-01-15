@@ -1,0 +1,17 @@
+# Compiled files
+*.class
+
+# VS Code
+.vscode/
+
+# Build folders
+bin/
+out/
+target/
+
+# Runtime data
+employees.txt
+
+# OS files
+.DS_Store
+Thumbs.db
